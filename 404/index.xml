@@ -5,10 +5,6 @@
     <link>/404/</link>
     <description>Recent content in Seite nicht gefunden. on IT-Ziviltechniker DI Herbert MÜHLBURGER</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language>
-    
-	<atom:link href="/404/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-at</language><atom:link href="/404/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
