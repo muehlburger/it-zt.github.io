@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on IT-Ziviltechniker DI Herbert MÜHLBURGER</title>
+    <title>IT-Ziviltechniker on IT-Ziviltechniker DI Herbert MÜHLBURGER</title>
     <link>/</link>
-    <description>Recent content in Home on IT-Ziviltechniker DI Herbert MÜHLBURGER</description>
+    <description>Recent content in IT-Ziviltechniker on IT-Ziviltechniker DI Herbert MÜHLBURGER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-at</language>
     <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -48,7 +48,19 @@ Berufsbezeichnung Dipl.Ing. Herbert Mühlburger, BSc Ingenieurkonsulent für Sof
     </item>
     
     <item>
-      <title>Jetzt anfragen</title>
+      <title>IT-Ziviltechniker</title>
+      <link>/it-ziviltechniker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/it-ziviltechniker/</guid>
+      <description>IT-Ziviltechniker sind staatlich befugte und beeidete IT-Spezialisten, die nach dem Ziviltechnikergesetz berechtigt sind, öffentliche Urkunden auszustellen.
+Öffentliche Urkunden IT-Ziviltechniker sind mit öffentlichem Glauben versehene Personen und können somit als Urkundspersonen Zertifikate in Form von öffentlichen Urkunden ausstellen.
+Auszug aus §3 Abs (3) Ziviltechnikergesetz:
+&amp;ldquo;Ziviltechniker sind mit öffentlichem Glauben versehene Personen. Für die von ihnen im Rahmen ihrer Befugnis ausgestellten Urkunden gilt § 292 der Zivilprozessordnung, RGBl. Nr. 113/1895. Die von ihnen im Rahmen ihrer Befugnis ausgestellten öffentlichen Urkunden werden von den Verwaltungsbehörden in derselben Weise angesehen, als wenn diese Urkunden von Behörden ausgefertigt wären.</description>
+    </item>
+    
+    <item>
+      <title>Jetzt kontaktieren!</title>
       <link>/anfragen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
