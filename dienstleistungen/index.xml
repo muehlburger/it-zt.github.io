@@ -4,7 +4,9 @@
     <title>Services on AI-Trust ZT GmbH, IT-Ziviltechniker, Staatlich befugter und beeideter IT-Sachverständiger, Solution Architect, Software Engineer, Informatiker</title>
     <link>/dienstleistungen/</link>
     <description>Recent content in Services on AI-Trust ZT GmbH, IT-Ziviltechniker, Staatlich befugter und beeideter IT-Sachverständiger, Solution Architect, Software Engineer, Informatiker</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-at</language><atom:link href="/dienstleistungen/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de-at</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/dienstleistungen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
