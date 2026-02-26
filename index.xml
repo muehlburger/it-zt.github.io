@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI-Trust ZT GmbH | IT-Ziviltechniker DI Herbert Mühlburger | Experte für KI, Datenschutz und IT-Gutachten | Solution Architect | Software Engineer on IT-Ziviltechniker, AI-Trust ZT GmbH, Staatlich befugter und beeideter Zivilingenieur, IT-Sachverständiger, Solution Architect, Software Engineer, Informatiker, Cyber-Experte</title>
+    <title>AI-Trust ZT GmbH – Unabhängige IT-Beratung &amp; KI-Expertise</title>
     <link>/</link>
-    <description>Recent content in AI-Trust ZT GmbH | IT-Ziviltechniker DI Herbert Mühlburger | Experte für KI, Datenschutz und IT-Gutachten | Solution Architect | Software Engineer on IT-Ziviltechniker, AI-Trust ZT GmbH, Staatlich befugter und beeideter Zivilingenieur, IT-Sachverständiger, Solution Architect, Software Engineer, Informatiker, Cyber-Experte</description>
+    <description>Recent content on AI-Trust ZT GmbH – Unabhängige IT-Beratung &amp; KI-Expertise</description>
     <generator>Hugo</generator>
     <language>de-at</language>
-    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KI-Beratung &amp; Strategie</title>
+      <link>/dienstleistungen/ai-consulting/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>/dienstleistungen/ai-consulting/</guid>
+      <description>&lt;p&gt;Künstliche Intelligenz bietet enormes Potenzial – wenn sie richtig eingesetzt wird. Wir helfen Ihnen, KI-Technologien strategisch zu bewerten, die passenden Anwendungsfälle zu identifizieren und Projekte erfolgreich umzusetzen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-wir-bieten&#34;&gt;Was wir bieten&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;KI-Strategieentwicklung&lt;/strong&gt;: Gemeinsam identifizieren wir, wo KI in Ihrem Unternehmen den größten Mehrwert schafft&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Modellentwicklung und -optimierung&lt;/strong&gt;: Wir entwickeln und optimieren unternehmensspezifische KI-Modelle für Prognosen, Automatisierung und Entscheidungsunterstützung&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;KI-Projektbegleitung&lt;/strong&gt;: Von der Machbarkeitsanalyse über die Implementierung bis zum produktiven Betrieb&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Schulungen und Workshops&lt;/strong&gt;: Praxisnahes Wissen zu KI, generativer KI und RAG – zugeschnitten auf Ihr Team&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;für-wen&#34;&gt;Für wen&lt;/h2&gt;&#xA;&lt;p&gt;Unternehmen, die KI einführen oder bestehende KI-Systeme verbessern möchten – und dabei auf unabhängige, herstellerneutrale Beratung setzen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DI Herbert Mühlburger</title>
       <link>/team/herbert-muehlburger/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>/team/herbert-muehlburger/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <description>&lt;p&gt;DI Herbert Mühlburger ist staatlich befugter und beeideter IT-Ziviltechniker – die höchste Ingenieurs-Akkreditierung Österreichs im Bereich der Informationstechnologie. Als Gründer der AI-Trust ZT GmbH verbindet er tiefgehende technische Expertise mit unternehmerischer Erfahrung.&lt;/p&gt;&#xA;&lt;p&gt;Seine Schwerpunkte liegen in der strategischen KI-Beratung, der Erstellung unabhängiger IT-Gutachten und der Planung komplexer Software-Architekturen. Er begleitet Unternehmen und öffentliche Stellen bei der sicheren Einführung neuer Technologien – herstellerunabhängig, objektiv und rechtssicher.&lt;/p&gt;&#xA;&lt;p&gt;Mit langjähriger Erfahrung als Solution Architect und Software Engineer kennt er die Praxis hinter der Theorie und setzt auf Lösungen, die funktionieren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IT-Gutachten &amp; Sachverständigentätigkeit</title>
+      <link>/dienstleistungen/it-gutachten/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>/dienstleistungen/it-gutachten/</guid>
+      <description>&lt;p&gt;Als staatlich befugter IT-Ziviltechniker erstellen wir unabhängige IT-Gutachten, die als &lt;strong&gt;öffentliche Urkunden&lt;/strong&gt; anerkannt werden. Unsere Gutachten bieten eine belastbare Grundlage für unternehmerische, behördliche und gerichtliche Entscheidungen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-wir-bieten&#34;&gt;Was wir bieten&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Privatgutachten&lt;/strong&gt;: Unabhängige Bewertung von IT-Systemen, Software-Projekten und technischen Sachverhalten&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gerichtsgutachten&lt;/strong&gt;: Als Nichtamtlicher Sachverständiger (NASV) erstellen wir Gutachten für Gerichte und Behörden&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IT-Zertifikate und Bestätigungen&lt;/strong&gt;: Rechtssichere Nachweise für Ausschreibungen, Investoren und interne Dokumentation&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Projektprüfung und -bewertung&lt;/strong&gt;: Objektive Einschätzung von IT-Projekten hinsichtlich Qualität, Sicherheit und Wirtschaftlichkeit&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;warum-ein-it-ziviltechniker&#34;&gt;Warum ein IT-Ziviltechniker?&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Gutachten genießen gemäß § 292 der Zivilprozessordnung den Status behördlicher Dokumente. Das gibt Ihnen Rechtssicherheit und Glaubwürdigkeit – gegenüber Geschäftspartnern, Gerichten und Behörden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Datenschutz &amp; DSGVO-Beratung</title>
+      <link>/dienstleistungen/datenschutz-beratung/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>/dienstleistungen/datenschutz-beratung/</guid>
+      <description>&lt;p&gt;Die DSGVO stellt Unternehmen vor komplexe Anforderungen. Wir unterstützen Sie dabei, Datenschutz technisch und organisatorisch umzusetzen – pragmatisch, verständlich und rechtssicher.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-wir-bieten&#34;&gt;Was wir bieten&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;DSGVO-Compliance-Beratung&lt;/strong&gt;: Analyse Ihrer IT-Systeme und Prozesse auf Datenschutzkonformität&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technische und organisatorische Maßnahmen (TOM)&lt;/strong&gt;: Konzeption und Bewertung geeigneter Schutzmaßnahmen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Datenschutz-Folgenabschätzung&lt;/strong&gt;: Risikobewertung bei der Verarbeitung sensibler Daten&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gutachten zum Datenschutz&lt;/strong&gt;: Unabhängige Beurteilung Ihrer Datenschutzmaßnahmen als IT-Ziviltechniker&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;für-wen&#34;&gt;Für wen&lt;/h2&gt;&#xA;&lt;p&gt;Unternehmen und öffentliche Stellen, die Datenschutzanforderungen professionell umsetzen möchten – mit der Sicherheit eines unabhängigen, staatlich befugten Gutachters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IT-Sicherheit &amp; Infrastrukturberatung</title>
+      <link>/dienstleistungen/it-sicherheit/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>/dienstleistungen/it-sicherheit/</guid>
+      <description>&lt;p&gt;Sichere IT-Infrastruktur ist die Grundlage für jedes digitale Geschäftsmodell. Wir beraten Sie herstellerunabhängig bei der Planung, Prüfung und Absicherung Ihrer IT-Systeme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-wir-bieten&#34;&gt;Was wir bieten&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sicherheitsanalysen&lt;/strong&gt;: Bewertung bestehender IT-Infrastrukturen auf Schwachstellen und Risiken&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sicherheitskonzepte&lt;/strong&gt;: Entwicklung maßgeschneiderter Sicherheitsarchitekturen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;IT-Infrastrukturplanung&lt;/strong&gt;: Beratung bei Aufbau und Optimierung Ihrer IT-Landschaft&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Prüfung und Überwachung&lt;/strong&gt;: Unabhängige Prüfung von IT-Systemen und Sicherheitsmaßnahmen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;unser-vorteil&#34;&gt;Unser Vorteil&lt;/h2&gt;&#xA;&lt;p&gt;Als IT-Ziviltechniker sind wir keinem Hersteller verpflichtet. Unsere Empfehlungen basieren ausschließlich auf Ihren Anforderungen – objektiv, technisch fundiert und wirtschaftlich sinnvoll.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AGB</title>
@@ -44,11 +72,11 @@
       <description>&lt;p&gt;IT-Ziviltechniker sind staatlich befugte und beeidete Experten im Bereich der Informationstechnologie (IT). Sie verfügen über die höchste Ingenieurs-Akkreditierung in Österreich und dürfen öffentliche Urkunden nach dem &lt;a href=&#34;https://www.ris.bka.gv.at/eli/bgbl/i/2019/29/P3/NOR40213929&#34;&gt;Ziviltechnikergesetz&lt;/a&gt; ausstellen. Ihre herstellerunabhängige und objektive Arbeit bringt hohen Mehrwert im IT-Umfeld, insbesondere durch ihre &lt;strong&gt;gutachterliche Tätigkeit&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gutachterliche-tätigkeit-und-öffentlicher-glaube&#34;&gt;Gutachterliche Tätigkeit und öffentlicher Glaube&lt;/h2&gt;&#xA;&lt;p&gt;Eine zentrale Aufgabe von IT-Ziviltechnikern ist die Erstellung von &lt;strong&gt;Gutachten&lt;/strong&gt;. Diese Gutachten werden als &lt;strong&gt;öffentliche Urkunden&lt;/strong&gt; mit besonderer Glaubwürdigkeit anerkannt. Im IT-Umfeld sind solche Gutachten von großem Wert, da sie als objektive, rechtlich anerkannte Dokumente bei IT-Projekten, Sicherheitsprüfungen und Zertifizierungen dienen. Sie bieten Unternehmen und Institutionen eine verlässliche Basis für Entscheidungen und können in rechtlichen Auseinandersetzungen als neutraler Beweis herangezogen werden.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Jetzt anfragen!</title>
+      <title>Kontakt</title>
       <link>/anfragen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/anfragen/</guid>
-      <description>&lt;p&gt;Wie wir Sie als staatlich befugter und beeideter, unabhängiger IT-Ziviltechniker unterstützen können, klären wir gerne in einem unverbindlichen Gespräch.&lt;/p&gt;&#xA;&lt;p&gt;Kontaktieren Sie uns dazu einfach:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;AI-Trust ZT GmbH&#xA;Am Quellenhof 2 / 3&#xA;8301 Laßnitzhöhe&#xA;Österreich&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;per Social Media &lt;a href=&#34;https://twitter.com/hmuehlburger&#34;&gt;@hmuehlburger&lt;/a&gt; oder &lt;a href=&#34;https://www.linkedin.com/in/herbert-muehlburger/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;per Telefon: &lt;a href=&#34;tel:+436603114909&#34;&gt;+43 660 311 4909&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;per Email: &lt;a href=&#34;mailto:office@it-zt.at&#34;&gt;office@it-zt.at&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;wir-freuen-uns-auf-ihre-anfrage-&#34;&gt;Wir freuen uns auf Ihre Anfrage! 👨🏻‍💻&lt;/h1&gt;</description>
+      <description>&lt;p&gt;Wie wir Sie als staatlich befugter und beeideter, unabhängiger IT-Ziviltechniker unterstützen können, klären wir gerne in einem &lt;strong&gt;unverbindlichen Erstgespräch&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Kontaktieren Sie uns:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;AI-Trust ZT GmbH&#xA;Am Quellenhof 2 / 3&#xA;8301 Laßnitzhöhe&#xA;Österreich&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;per Telefon: &lt;a href=&#34;tel:+436603114909&#34;&gt;+43 660 311 4909&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;per Email: &lt;a href=&#34;mailto:office@it-zt.at&#34;&gt;office@it-zt.at&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;per LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/herbert-muehlburger/&#34;&gt;Herbert Mühlburger&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Wir freuen uns auf Ihre Anfrage.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
